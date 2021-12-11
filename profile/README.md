@@ -13,5 +13,8 @@
 <a href="https://softvenue.net/docs">documentation</a>📗
 |
 |
+<a href="https://softvenue.instatus.com/"> Status</a> 🌍
+|
+|
 <a href="https://softvenue.net/contact">Contact us</a>🎙
 </p>
